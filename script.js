@@ -32,6 +32,7 @@ Box_2_Container.addEventListener('click',function(){
     Box_3_hidden.style.display ="block";
     Box_2_hidden.style.display = "none";
     About_Me.style.display = 'none';
+    Box1_hidden.style.display ='none';
   }) 
 
 //   About me Box Fixing it hidden part when you will click on add to card button it will open and for close click again on upper boxes 
